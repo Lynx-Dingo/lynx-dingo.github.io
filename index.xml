@@ -10,15 +10,6 @@
       <url>/img/logo.png</url>
       <title>Lynx &amp; Dingo</title>
       <link>/</link>
-    </image>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
+    </image>     
   </channel>
 </rss>
