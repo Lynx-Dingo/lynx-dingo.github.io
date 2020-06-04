@@ -1,0 +1,18 @@
+{
+  "name": "Lynx &amp; Dingo",
+  "short_name": "Lynx &amp; Dingo",
+  "lang": "en-us",
+  "theme_color": "#465FB1",
+  "background_color": "#465FB1",
+  "icons": [{
+    "src": "/images/icon_hu5b1f5159b7339303e0a19187ea1b2606_19268_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu5b1f5159b7339303e0a19187ea1b2606_19268_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
